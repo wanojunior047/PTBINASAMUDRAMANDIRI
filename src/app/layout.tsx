@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     description: "AI-powered development with modern React stack",
   },
   other: {
-    "facebook-domain-verification": "ougc3wa0ip7e2vl0w32l43juwlicra",
+    "facebook-domain-verification": "0nviv22gpxkmn5b19ytbona07gll38",
   },
 };
 
